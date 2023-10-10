@@ -26,8 +26,8 @@ export default () => {
           <div className="space-y-6">
             <img src="https://www.floatui.com/logo.svg" className="w-32" />
             <p className="max-w-md">
-              Nulla auctor metus vitae lectus iaculis, vel euismod massa
-              efficitur.
+          
+            "BlockTech: Transforming Supply Chains with Blockchain Solutions"
             </p>
             <ul className="flex flex-wrap items-center gap-4 text-sm sm:text-base">
               {footerNavs.map((item, idx) => (
@@ -52,7 +52,7 @@ export default () => {
           </div>
         </div>
         <div className="mt-10 py-10 border-t md:text-center">
-          <p>© 2022 Daulat Hussain. All rights reserved.</p>
+          <p>© 2023 BLOCKTECH PVT LTD. All rights reserved.</p>
         </div>
       </div>
     </footer>
