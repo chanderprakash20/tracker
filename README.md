@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+MVP BLOCKTECH PVT LTD. ONE STOP SOLUTION FOR SUPPLY CHAIN ENTERPRISES .
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+THIS IS BASIC FEATURE OF OUR UPCOMING PRODUCT.WE ARE PROVIDING DISTRUPTIVE SOLUTION  TO ALL BUSINESS OF SUPPLY CHAIN.
 
 Try running some of the following tasks:
 
