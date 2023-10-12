@@ -1,7 +1,4 @@
-MVP BLOCKTECH PVT LTD. ONE STOP SOLUTION FOR SUPPLY CHAIN ENTERPRISES .
-
-THIS IS BASIC FEATURE OF OUR UPCOMING PRODUCT. WE ARE PROVIDING DISTRUPTIVE SOLUTION  TO ALL BUSINESS OF SUPPLY CHAIN.
-
+"MVP BlockTech Pvt Ltd: Your Ultimate Supply Chain Partner - Pioneering Disruptive Solutions for Businesses Worldwide."
 Try running some of the following tasks:
 
 ```shell
