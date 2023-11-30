@@ -24,4 +24,9 @@ Make sure you have npm installed.
 ```bash
 npm install npm@latest -g
 
-## Installation
+```bash
+git clone https://github.com/github_username/repo.git
+
+```bash
+npm install
+
