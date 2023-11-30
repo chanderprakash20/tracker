@@ -73,7 +73,7 @@ Important decisions regarding the project are taken by the following maintainer.
 | Chanderprakash        |
 | :-------------: |
 | <img  height="100" width="100" src="[https://avatars3.githubusercontent.com/u/53480076?s=460&u=c1aad58f1a773750a47475682afa80ac3b74f583&v=4](https://avatars.githubusercontent.com/u/132908264?v=4)">      |
-| [@imabp](https://github.com/chanderprakash20)      |
+| [@chanderprakash20](https://github.com/chanderprakash20)      |
 
 
 
