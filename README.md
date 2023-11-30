@@ -23,3 +23,5 @@ Make sure you have npm installed.
 
 ```bash
 npm install npm@latest -g
+
+## Installation
