@@ -24,8 +24,13 @@ Make sure you have npm installed.
 ```bash
 npm install npm@latest -g
 
+### Installation
+1.Clone the repo
+
 ```bash
 git clone https://github.com/github_username/repo.git
+
+2. Install NPM packages
 
 ```bash
 npm install
