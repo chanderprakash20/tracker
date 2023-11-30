@@ -70,10 +70,9 @@ npm install
 ## Maintainer
 Important decisions regarding the project are taken by the following maintainer.
 
-| Chanderprakash        |
-| :-------------: |
-| <img  height="100" width="100" ![avatar](https://github.com/chanderprakash20/tracker/assets/132908264/01fbe5a3-a369-417e-b1f8-0d5b4b67f6c3)>      |
-| [@chanderprakash20](https://github.com/chanderprakash20)      |
-
+| Chanderprakash | 
+| :-------------: | 
+| <img  height="100" width="100" src="https://github.com/chanderprakash20/tracker/assets/132908264/01fbe5a3-a369-417e-b1f8-0d5b4b67f6c3" alt="avatar"> | 
+| [@chanderprakash20](https://github.com/chanderprakash20) | 
 
 
