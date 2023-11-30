@@ -3,7 +3,7 @@
 
 ### See here the UI
 
-https://github.com/chanderprakash20/tracker/assets/132908264/4f3dc7d1-471e-4c08-aaab-b6a0f206e335
+![Working prototype SCM](https://github.com/chanderprakash20/tracker/assets/132908264/f426a4a2-26c7-4c52-95c7-852e4b254b20)
 TABLE OF CONTENTS -->
 
 ## Table of Contents
